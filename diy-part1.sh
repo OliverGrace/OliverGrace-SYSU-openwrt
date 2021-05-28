@@ -19,8 +19,6 @@ cd package/lean
 git clone git clone https://bitbucket.org/etnperlong/luci-app-mentohust-sysu.git
 git clone git clone https://bitbucket.org/etnperlong/luci-app-mentohust-sysu.git
 git clone https://github.com/jerrykuku/luci-theme-argon.git
-git clone https://github.com/yichya/luci-app-xray.git
-git clone https://github.com/yichya/openwrt-xray.git
 git clone https://github.com/kenzok8/small.git
 git clone https://github.com/kuoruan/openwrt-v2ray.git
 git clone https://github.com/jerrykuku/luci-app-vssr.git
