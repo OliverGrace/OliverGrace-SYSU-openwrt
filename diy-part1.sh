@@ -24,5 +24,6 @@ git clone https://github.com/yichya/openwrt-xray.git
 git clone https://github.com/kenzok8/small.git
 git clone https://github.com/kuoruan/openwrt-v2ray.git
 git clone https://github.com/jerrykuku/luci-app-vssr.git
+git clone https://github.com/jerrykuku/lua-maxminddb.git
 cd ..
 cd ..
