@@ -22,6 +22,5 @@ git clone --single-branch --branch 18.06 https://github.com/jerrykuku/luci-theme
 git clone https://github.com/kenzok8/small.git
 git clone https://github.com/jerrykuku/luci-app-vssr.git
 git clone https://github.com/jerrykuku/lua-maxminddb.git
-git clone https://github.com/haswelliris/h3c.git
 cd ..
 cd ..
